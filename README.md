@@ -44,11 +44,11 @@ over alternative deep learning solutions.
 
 ## Using TensorFlowOnSpark
 
-Please check TensorFlowOnSpark [wiki site](../../wiki) for detailed
+Please check TensorFlowOnSpark [wiki site](https://github.com/yahoo/TensorFlowOnSpark/wiki) for detailed
 documentations such as getting started guides for [YARN
-cluster](../../wiki/GetStarted_YARN) and [AWS EC2
-cluster](../../wiki/GetStarted_EC2). A [Conversion
-Guide](../../wiki/Conversion) has been provided to help you convert
+cluster](https://github.com/yahoo/TensorFlowOnSpark/wiki/GetStarted_YARN) and [AWS EC2
+cluster](https://github.com/yahoo/TensorFlowOnSpark/wiki/GetStarted_EC2). A [Conversion
+Guide](https://github.com/yahoo/TensorFlowOnSpark/wiki/Conversion) has been provided to help you convert
 your TensorFlow programs.
 
 ## Mailing List
