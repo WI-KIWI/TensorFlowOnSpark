@@ -60,8 +60,7 @@ Please join [TensorFlowOnSpark user group](https://groups.google.com/forum/#!for
 The use and distribution terms for this software are covered by the Apache 2.0 license.
 See [LICENSE](LICENSE) file for terms.
 
-## Modification for the original TensorFlowOnSpark repo
-:smile:
+## Modification for the original TensorFlowOnSpark repo :smile:
 
 As you may notice, I slightly hacked the original TensorFlowOnSpark code and generate two new directories [tensorflowonspark_gpu10p](https://github.com/WI-KIWI/TensorFlowOnSpark/tree/master/tensorflowonspark_gpu10p) and [tensorflowonspark_gpu20p](https://github.com/WI-KIWI/TensorFlowOnSpark/tree/master/tensorflowonspark_gpu20p). This makes the sharing of only one physical GPU possible in a Hadoop cluster, otherwise GPU memory will be occupied by one excuetor. Here, 10p means 10% and 20p means 20%, which infers each container only reserves 10% or 20% GPU memory.
 
